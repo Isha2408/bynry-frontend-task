@@ -14,9 +14,9 @@ const defaultData = [
     address: "Cooper Colony,Sadar Bazar, Satara,Maharashtra,India",
     details:
       "A Software Engineer with Expertise in MERN stack and Interested in DevOps and Cloud",
-    email: "sahilpatil67049@gmail.com",
-    mobile: "9834015017",
-    name: "Sahil Patil",
+    email: "ishagurnani09@gmail.com",
+    mobile: "91xxxx9000",
+    name: "Isha Gurnani",
     photoUrl:
       "http://res.cloudinary.com/djmbp2rwt/image/upload/v1734028593/yoqidbcb2jp5fvma8k7l.jpg",
   },
