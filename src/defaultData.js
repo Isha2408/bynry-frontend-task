@@ -11,9 +11,9 @@ const defaultData = [
       "http://res.cloudinary.com/djmbp2rwt/image/upload/v1734009836/sc5sv8redhiayup9ukft.jpg",
   },
   {
-    address: "Cooper Colony,Sadar Bazar, Satara,Maharashtra,India",
+    address: "Jabalpur, Madhya Pradesh , India",
     details:
-      "A Software Engineer with Expertise in MERN stack and Interested in DevOps and Cloud",
+      "A Software Engineer with Expertise in MERN stack",
     email: "ishagurnani09@gmail.com",
     mobile: "91xxxx9000",
     name: "Isha Gurnani",
